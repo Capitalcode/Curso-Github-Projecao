@@ -19,6 +19,33 @@
 ![
 ](http://capitalcode.com.br/curso-proj/11.jpg)
 
+## Guia Prático de introdução ao Git e Github
+
+ -  [**Configurando Usuário Global**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#configurando-usu%C3%A1rio-global)
+ - [**Configurando E-mail Global**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#configurando-e-mail-global)
+ - [**Criando Repositório Local**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#criando-reposit%C3%B3rio-local)
+ - [**Visualizando Status de nosso repositório**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#criando-reposit%C3%B3rio-local)
+- [**Adicionando arquivos do Working Directory para a Staging Area**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#visualizando-status-de-nosso-reposit%C3%B3rio)
+- [**Adicionando arquivos da Staging Area para o Git Directory**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#adicionando-arquivos-do-working-directory-para-a-staging-area)
+- [**Alterando Mensagem de um Commit**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#alterando-mensagem-de-um-commit)
+- [**Saindo de Arquivo "VIM"**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#saindo-de-arquivo-vim)
+- [**Tags no Git**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#tags-no-git)
+- [**Listar Tag**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#listar-tag)
+- [**Listando Todos os Commits Realizados**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#listando-todos-os-commits-realizados)
+- [**Criando Tag em Commit Existente**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#criando-tag-em-commit-existente)
+- [**Acessando Tags de Versões Anteriores**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#acessando-tags-de-versões-anteriores)
+-  [**Como Deletar uma Tag**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#como-deletar-uma-tag)
+-  [**Branch**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#branch)
+-  [**Listando Branch**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#listando-branch)
+-  [**Criando Branch**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#criando-branch)
+- [**Alternando entre Branches**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#alternando-entre-branches)
+-  [**Merge entre Branches**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#merge-entre-branches)
+-  [**Deletando Branch**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#deletando-branch)
+-  [**Ambiente Gráfico do Git**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#ambiente-gráfico-do-git)
+-  [**Gerando Chave ssh para acesso direto ao Github com o Git**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#gerando-chave-ssh-para-acesso-direto-ao-github-com-o-git)
+-  [**Git Push**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#git-push)
+-  [**Clonando Repositório do Github para o Git**](https://github.com/Capitalcode/Curso-Github-Projecao/blob/master/README.md#clonando-repositório-do-github-para-o-git)
+
 ## Configurando Usuário Global
 
     git config --global user.name "Capital Code"
